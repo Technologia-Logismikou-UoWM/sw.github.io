@@ -1,7 +1,6 @@
 # Οδηγίες για δημιουργία, επεξεργασία, και αποστολή αναφοράς εργασίας 
 
-* Αντιγραφή (**fork**) στον λογαριασμό σας στο github του **αποθετηρίου** (**repository**) με τα αρχεία του **μαθήματος** π.χ., hci.
-* * Αν είχατε κάνει σε προηγούμενη χρονιά το φορκ τότε θα πρέπει να κάνετε και συγχρονισμό με το κεντρικό που έχει αλλάξει από τότε, έτσι ώστε να κρατήσετε τα κομίτ σας, διαφορετικά, αν δεν έχετε κάποιο δικό σας ιστορικό, καλύτερα να διαγράψετε το παλιό φόρκ και να κάνετε νέο. Μπορείτε πρακτικά να δοκιμάσετε να κάνετε αίτημα ενσωμάτωσης από την αρχή του μαθήματος και αν σας βγάζει σύγκρουση να κάνετε συγχρονισμό ή διαγραφή του παλιού αποθετηρίου. 
+* Αντιγραφή (**fork**) στον λογαριασμό σας στο github του **αποθετηρίου** (**repository**) με τα αρχεία του **μαθήματος** 
 * Είναι δικιά σας ευθύνη να διορθώσετε (συνήθως με συγχρονισμό με το κεντρικό) έγκαιρα πιθανή σύγκρουση, διαφορετικά η ενσωμάτωση και βαθμολόγηση της αναφοράς σας θα γίνει στην επόμενη εξεταστική.
 * Δημιουργία κλαδιού (**branch**) στο αντιγραμμένο στον λογαριασμό σας αποθετήριο του μαθήματος με τίτλο τον ΑΜ σας (π.χ., 2003xxx).
 * Δημιουργία του αρχείου `README.md` με τα βασικά στοιχεία σας (ΑΜ, Ονομα) μέσα σε νέο προσωπικό φακέλο με όνομα φακέλου το ΑΜ, χωρίς Π ή Ρ, (2003xxx), ο οποίος θα βρίσκεται μέσα στον φάκελο projects. 
@@ -10,13 +9,13 @@
 
 ## Πρόσθετες οδηγίες
 
-* [Αποστολή παραδοτέου](https://courses-ionio.github.io/help/submit)
-* [Pull request](https://courses-ionio.github.io/help/pullrequest/)
-* [Εγγραφή στο Github](https://courses-ionio.github.io/help/register/)
-* [Προσθήκη εικόνας](https://courses-ionio.github.io/help/image/)
-* [Διαγραφή αρχείου](https://courses-ionio.github.io/help/delete/)
-* [Προβολή σελίδων](https://courses-ionio.github.io/help/pages/)
-* [Γραμμή εντολών και γραφική διεπαφή](https://courses-ionio.github.io/help/github/)
+* [Αποστολή παραδοτέου](https://github.com/Technologia-Logismikou-UoWM/sw.github.io/help/submit)
+* [Pull request](https://github.com/Technologia-Logismikou-UoWM/sw.github.io/help/pullrequest/)
+* [Εγγραφή στο Github](https://github.com/Technologia-Logismikou-UoWM/sw.github.io/help/register/)
+* [Προσθήκη εικόνας](https://github.com/Technologia-Logismikou-UoWM/sw.github.io/help/image/)
+* [Διαγραφή αρχείου](https://github.com/Technologia-Logismikou-UoWM/sw.github.io/help/delete/)
+* [Προβολή σελίδων](https://github.com/Technologia-Logismikou-UoWM/sw.github.io/help/pages/)
+* [Γραμμή εντολών και γραφική διεπαφή](https://github.com/Technologia-Logismikou-UoWM/sw.github.io/help/github/)
 
 ### Git(hub) tutorials and workflow
 
