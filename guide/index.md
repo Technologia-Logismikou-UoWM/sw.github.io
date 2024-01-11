@@ -9,13 +9,13 @@
 
 ## Πρόσθετες οδηγίες
 
-* [Αποστολή παραδοτέου](https://github.com/Technologia-Logismikou-UoWM/sw.github.io/help/submit)
-* [Pull request](https://github.com/Technologia-Logismikou-UoWM/sw.github.io/help/pullrequest/)
-* [Εγγραφή στο Github](https://github.com/Technologia-Logismikou-UoWM/sw.github.io/help/register/)
-* [Προσθήκη εικόνας](https://github.com/Technologia-Logismikou-UoWM/sw.github.io/help/image/)
-* [Διαγραφή αρχείου](https://github.com/Technologia-Logismikou-UoWM/sw.github.io/help/delete/)
-* [Προβολή σελίδων](https://github.com/Technologia-Logismikou-UoWM/sw.github.io/help/pages/)
-* [Γραμμή εντολών και γραφική διεπαφή](https://github.com/Technologia-Logismikou-UoWM/sw.github.io/help/github/)
+* [Αποστολή παραδοτέου](https://github.com/Technologia-Logismikou-UoWM/sw.github.io/submit)
+* [Pull request](https://github.com/Technologia-Logismikou-UoWM/sw.github.io/pullrequest/)
+* [Εγγραφή στο Github](https://github.com/Technologia-Logismikou-UoWM/sw.github.io/register/)
+* [Προσθήκη εικόνας](https://github.com/Technologia-Logismikou-UoWM/sw.github.io/image/)
+* [Διαγραφή αρχείου](https://github.com/Technologia-Logismikou-UoWM/sw.github.io/delete/)
+* [Προβολή σελίδων](https://github.com/Technologia-Logismikou-UoWM/sw.github.io/pages/)
+* [Γραμμή εντολών και γραφική διεπαφή](https://github.com/Technologia-Logismikou-UoWM/sw.github.io/github/)
 
 ### Git(hub) tutorials and workflow
 
