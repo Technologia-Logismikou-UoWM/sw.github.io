@@ -8,14 +8,18 @@
 * Δημιουργία αιτήματος ενσωμάτωσης (pull request) την τελευταία εβδομάδα του μαθήματος, το οποίο θα πρέπει να γίνει δεκτό για να βαθμολογηθεί. Πριν την αποστολή του τελικού αιτήματος ενσωμάτωσης συστήνεται ο [συγχρονισμός με το κεντρικό αποθετήριο](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) γιατί ενδέχεται να έχουν γίνει αλλαγές που μπορεί να δημιουργήσουν συγκρούσεις.
 
 ## Πρόσθετες οδηγίες
-
+* [Θέμα Εργασίας](https://github.com/Technologia-Logismikou-UoWM/sw.github.io/blob/main/dev/index.md)
+* [Εργαλεία για την Υλοποίηση της Εργασίας](https://github.com/Technologia-Logismikou-UoWM/sw.github.io/blob/main/tools/index.md)
+* [Δημιουργία Ομάδων](https://github.com/Technologia-Logismikou-UoWM/sw.github.io/teams)
 * [Αποστολή παραδοτέου](https://github.com/Technologia-Logismikou-UoWM/sw.github.io/submit)
-* [Pull request](https://github.com/Technologia-Logismikou-UoWM/sw.github.io/pullrequest/)
+
 * [Εγγραφή στο Github](https://github.com/Technologia-Logismikou-UoWM/sw.github.io/register/)
+* [Pull request](https://github.com/Technologia-Logismikou-UoWM/sw.github.io/pullrequest/)
 * [Προσθήκη εικόνας](https://github.com/Technologia-Logismikou-UoWM/sw.github.io/image/)
 * [Διαγραφή αρχείου](https://github.com/Technologia-Logismikou-UoWM/sw.github.io/delete/)
 * [Προβολή σελίδων](https://github.com/Technologia-Logismikou-UoWM/sw.github.io/pages/)
 * [Γραμμή εντολών και γραφική διεπαφή](https://github.com/Technologia-Logismikou-UoWM/sw.github.io/github/)
+
 
 ### Git(hub) tutorials and workflow
 
